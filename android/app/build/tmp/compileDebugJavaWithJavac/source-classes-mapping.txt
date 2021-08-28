@@ -1,0 +1,14 @@
+com/emoji/BuildConfig.java
+ com.emoji.BuildConfig
+com/emoji/ReactNativeFlipper.java
+ com.emoji.ReactNativeFlipper
+ com.emoji.ReactNativeFlipper$1
+ com.emoji.ReactNativeFlipper$2
+ com.emoji.ReactNativeFlipper$2$1
+com/emoji/MainApplication.java
+ com.emoji.MainApplication
+ com.emoji.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/emoji/MainActivity.java
+ com.emoji.MainActivity
